@@ -1,0 +1,15 @@
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\bin\x64\Debug\CarsKHATUA.exe.config
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\bin\x64\Debug\CarsKHATUA.exe
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\bin\x64\Debug\CarsKHATUA.pdb
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\bin\x64\Debug\CarsKHATUA.xml
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\CarsKHATUA.vbproj.AssemblyReference.cache
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\Interop.ADODB.dll
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\CarsKHATUA.vbproj.ResolveComReference.cache
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\CarsKHATUA.Consultar.resources
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\CarsKHATUA.Form1.resources
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\CarsKHATUA.Resources.resources
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\CarsKHATUA.vbproj.GenerateResource.cache
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\CarsKHATUA.vbproj.CoreCompileInputs.cache
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\CarsKHATUA.exe
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\CarsKHATUA.xml
+C:\Users\kauã\Desktop\CarsKHATUA\CarsKHATUA\obj\x64\Debug\CarsKHATUA.pdb
